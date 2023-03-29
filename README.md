@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 ![Petar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarGPetrov&show_icons=true&theme=tokyonight)                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarGPetrov&langs_count=8&theme=tokyonight)](https://github.com/PetarGPetrov/github-readme-stats)
 
-## [Linkedin:](https://www.linkedin.com/in/petar-petrov-97a64923a/) 
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=)](https://skillicons.dev)
+## [Linkedin:](https://www.linkedin.com/in/petar-petrov-97a64923a/) 
 
 
 
