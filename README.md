@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Skills: 
 [![My Skills](https://skillicons.dev/icons?i=java,vscode,idea,github)](https://skillicons.dev)
 
-![Petar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarGPetrov&show_icons=true&theme=radical)
+![Petar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarGPetrov&show_icons=true&theme=dark)
 
 
-![Petar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarGPetrov&show_icons=true)
+
