@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,php,js,html,css,vscode,idea,visualstudio,postgres,mysql,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,vscode,idea,visualstudio)](https://skillicons.dev)
