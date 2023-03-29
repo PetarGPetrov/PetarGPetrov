@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contacts:
-[![Contacts](https://skillicons.dev/icons?i=nstagram)](https://skillicons.dev)
+[![Contacts](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
 ## Skills: 
