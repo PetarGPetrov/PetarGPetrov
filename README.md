@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Skills: 
 [![My Skills](https://skillicons.dev/icons?i=java,vscode,idea,github)](https://skillicons.dev)
 
-![Petar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarGPetrov&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarGPetrov&langs_count=8&theme=tokyonight)](https://github.com/PetarGPetrov/github-readme-stats)
+![Petar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetarGPetrov&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarGPetrov&langs_count=8&theme=tokyonight)](https://github.com/PetarGPetrov/github-readme-stats)
 
 
 
