@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarGPetrov)](https://github.com/PetarGPetrov/github-readme-stats)
