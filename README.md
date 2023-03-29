@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contacts:
+
+
+
 ## Skills: 
 [![My Skills](https://skillicons.dev/icons?i=java,vscode,idea,github)](https://skillicons.dev)
