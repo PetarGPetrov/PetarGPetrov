@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Contacts:[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=)](https://skillicons.dev)[Linkedin](https://www.linkedin.com/in/petar-petrov-97a64923a/)
+## Contacts:
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=)](https://skillicons.dev)[Linkedin](https://www.linkedin.com/in/petar-petrov-97a64923a/)
 
 
 
