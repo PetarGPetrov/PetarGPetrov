@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contacts:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) [Instagram](https://www.instagram.com/p_petrov223/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Linkedin](https://www.linkedin.com/in/petar-petrov-97a64923a/)
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin&perline=1)](https://skillicons.dev)
+
 
 
 ## Skills: 
