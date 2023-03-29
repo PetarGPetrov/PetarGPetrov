@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Contacts:[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin&perline=3)](https://skillicons.dev)
+## Contacts:[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin&perline=)](https://skillicons.dev)
 
 
 
