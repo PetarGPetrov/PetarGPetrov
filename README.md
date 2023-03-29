@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contacts:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) Instagram [site name](https://www.instagram.com/p_petrov223/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) [Instagram](https://www.instagram.com/p_petrov223/)
 
 
 ## Skills: 
