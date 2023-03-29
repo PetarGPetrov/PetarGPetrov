@@ -1,7 +1,7 @@
 ### Hi there My name is Petar👋
 
 - 🔭 I’m currently working on developing my Java skills.
-- - 🌱 I’m currently learning Java Advanced and OOP.
+- 🌱 I’m currently learning Java Advanced and OOP.
 <!--
 **PetarGPetrov/PetarGPetrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
