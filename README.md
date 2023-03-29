@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
--->
 ## [Linkedin:](https://www.linkedin.com/in/petar-petrov-97a64923a/) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=)](https://skillicons.dev) 
+-->
+
 
 
 
