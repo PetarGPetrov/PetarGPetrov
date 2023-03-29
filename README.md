@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,vscode,idea,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,vscode,idea,)](https://skillicons.dev)
